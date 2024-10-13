@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Security Kar rha hu"];
+const statusMessages = ["RG DEVELOPMENT ON TOP"];
 
 
 let currentIndex = 0;
