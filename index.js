@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["King PLays"];
+const statusMessages = ["⚡𝒀𝑻- @𝒌𝒊𝒏𝒈𝒑𝒍𝒂𝒚𝒔𝟎𝟕⚡"];
 
 
 let currentIndex = 0;
