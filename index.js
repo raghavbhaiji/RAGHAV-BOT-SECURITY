@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["RG DEVELOPMENT ON TOP"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
